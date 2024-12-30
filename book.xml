@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+    <book category="cooking">
+        <title>My new cookbook</title>
+        <author>Abdurrahman Ahmed</author>
+        <year>2009</year>
+        <price>1500$</price>
+    </book>
+    <book category="sports">
+    <title>Football:The Beautiful Game</title>
+    <author>ShahRukh Khan</author>
+    <year>2010</year>
+    <price>50$</price>
+    </book>
+    <book category="fiction">
+        <title>The Wizard Of Oz</title>
+        <author>Roald Dahl</author>
+        <year>1990</year>
+        <price>1$</price>
+    </book>
+    <book category="children">
+        <title>A Tale of Two Cities</title>
+        <author>Moiz Iqbal</author>
+        <year>2000</year>
+        <price>500$</price>
+    </book>
+</bookstore>
